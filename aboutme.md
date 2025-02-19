@@ -4,14 +4,18 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Teferi Mekonnen Yitayew, I am a postdoctoral fellow at Norwegian Insitute of Public Health.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Nursing at Mekelle Unversity, Ethiopia (2008 - 2012)
+- Master in Public Health Nutrition at University of Gondar (2014 - 2018)
+- PhD in Epidemiology (2018 - 2022)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Postdoctoral training, Norwegian Institute of Public Health, Oslo, Norway (2022-present)
+- Statistician, NIOM (march 2023-present)
+- Research visiting scholar Population Aging Research Center, University of Pennsylvania, USA(Sep 2023-Oct 2023)
+- Resarcher,Department of Nutrition, the University of Oslo, Oslo, Norway(Feb 2022- Nov 2022)
+- Researche fellow, Department of Nutrition, the University of Oslo, Oslo, Norway(Aug 2018- Feb 2022)
+  
