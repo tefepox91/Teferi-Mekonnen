@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: A brief personal description
 ---
-My name is Teferi Mekonnen Yitayew. I am a postdoctoral fellow at Norwegian Insitute of Public Health.  My research centers around causal inference, life-course epidemiology, social inequalities in chronic noncommunicable diseases and their determinants.
+My name is Teferi Mekonnen Yitayew. I am a postdoctoral fellow at Norwegian Insitute of Public Health.  My research centers around causal inference, life-course epidemiology, social inequalities in chronic noncommunicable diseases and their determinants. 
 
 ### Education
 
