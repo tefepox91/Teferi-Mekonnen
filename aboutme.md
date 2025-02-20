@@ -19,4 +19,3 @@ My name is Teferi Mekonnen Yitayew. I am a postdoctoral fellow at Norwegian Insi
 - Doctoral Researche fellow, Department of Nutrition, the University of Oslo, Norway(Aug 2018- Feb 2022)
 - Lecturer, Bahir Dar University, school of Public Health, Ethiopia (2014-2018)
 - Assistant Lecturer, Department of Nursing, Bahir Dar University, Ethiopia (2012-2014)   
-  
