@@ -7,8 +7,8 @@ My name is Teferi Mekonnen Yitayew. I am a postdoctoral fellow at Norwegian Insi
 
 ### Education
 
-- Nursing at Mekelle Unversity, Ethiopia (2008 - 2012)
-- Masters in Public Health Nutrition, University of Gondar, Ethiopia (2014 - 2018)
+- BSc Nursing (2008 - 2012)
+- Masters in Public Health Nutrition (2014 - 2018)
 - PhD in Epidemiology (2018 - 2022)
 - 
 ### Experience
